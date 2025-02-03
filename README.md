@@ -1,7 +1,10 @@
 # FGAI-CV-basis
 
 ## 简介
-《人工智能计算机视觉基础与实践指南》书籍与课程配套程序，即将上线发布。
+- 《人工智能计算机视觉基础与实践指南》书籍与课程配套程序，即将上线发布。
+- [CSDN专栏地址：https://blog.csdn.net/suiyingy/category_12886699.html](https://blog.csdn.net/suiyingy/category_12886699.html)
+- [Gitee地址：https://gitee.com/fgai/fgai-cv-basis](https://gitee.com/fgai/fgai-cv-basis)
+- [Github地址：https://github.com/yehx1/fgai-cv-basis](https://github.com/yehx1/fgai-cv-basis)
 
 ## 书籍目录
 - [书籍目录：CONTENT.md](CONTENT.md)
