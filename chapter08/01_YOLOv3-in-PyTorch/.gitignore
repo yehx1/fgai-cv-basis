@@ -1,0 +1,18 @@
+checkpoints/*
+notebooks/
+log/
+output/*
+!output/2.png
+.ipynb_checkpoints/
+.idea/
+test/
+scripts/
+exp/
+weights/*.pt
+# !weights/yolov3_original.pt
+
+
+
+__pycache__/
+*.py[cod]
+*$py.class

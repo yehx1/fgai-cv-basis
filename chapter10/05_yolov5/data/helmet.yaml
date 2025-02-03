@@ -1,0 +1,8 @@
+path: ../data/helmet_data # dataset root dir
+train: train # train dir
+val: val # val dir
+test: test # test dir
+# Classes
+names:
+  0: helmet
+  1: head

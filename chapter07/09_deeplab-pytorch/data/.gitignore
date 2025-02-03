@@ -1,0 +1,8 @@
+*.pth
+*.pth.tar
+*.caffemodel
+*.npy
+*.prototxt
+*.zip
+logs/*
+features/*
