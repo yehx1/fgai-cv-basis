@@ -1,7 +1,8 @@
 # 安装说明
 
 ## Description
-《计算机视觉基础与实践》书籍与课程配套程序，即将上线发布。
+《计算机视觉基础与实践》 CSDN 专栏配套讲解，即将上线发布。
+- [CSDN专栏地址：https://blog.csdn.net/suiyingy/category_12886699.html](https://blog.csdn.net/suiyingy/category_12886699.html)
 
 ### 安装环境
 ```
