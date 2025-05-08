@@ -1,13 +1,13 @@
-# FGAI-CV-basis
+# 人工智能计算机视觉基础与实践指南
 
 ## 简介
-- 《人工智能计算机视觉基础与实践指南》书籍与课程配套程序，即将上线发布。
+《人工智能计算机视觉基础与实践指南》专栏适合作为人工智能或计算机视觉入门的经典教程，并提供配套程序。
 - [CSDN专栏地址：https://blog.csdn.net/suiyingy/category_12886699.html](https://blog.csdn.net/suiyingy/category_12886699.html)
 - [Gitee地址：https://gitee.com/fgai/fgai-cv-basis](https://gitee.com/fgai/fgai-cv-basis)
 - [Github地址：https://github.com/yehx1/fgai-cv-basis](https://github.com/yehx1/fgai-cv-basis)
 
-## 书籍目录
-- [书籍目录：CONTENT.md](CONTENT.md)
+## 专栏目录
+- [专栏目录：CONTENT.md](CONTENT.md)
 ## 程序说明
 - 01_data: COCO128、MINIST等小型数据集。
 - 02_model：训练模型保存目录，预训练模型下载地址：
